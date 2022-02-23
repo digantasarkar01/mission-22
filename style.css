@@ -115,9 +115,9 @@ Regular Css Start Here
     height: 100px;
 }
 .team{
-   display: flex;
-   align-items: center;
-   padding: 75px 0px; 
+    display: flex;
+    align-items: center;
+    padding: 75px 0px;
 }
 .team-left{
     width: 45%;
@@ -133,7 +133,7 @@ Regular Css Start Here
 .project{
     display: flex;
     align-items: center;
-    padding: 75px 0px; 
+    padding: 75px 0px;
  }
  .project-left{
     width: 55%;
