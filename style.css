@@ -72,6 +72,13 @@ Regular Css Start Here
     width: 55%;
     padding-right: 5%;
 }
+.intro-heading{
+    border-left: 5px solid;
+    border-image: linear-gradient(red, yellow);
+    border-image-slice: 1;
+    padding: 0px;
+    padding-left: 10px;
+}
 .intro-right{
     width: 45%;
 }
