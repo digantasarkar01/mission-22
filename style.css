@@ -62,7 +62,40 @@ p{
 /*=================
 Regular Css Start Here
 ==================*/
-
+.header-area{
+    background-color: #EBEAEE;
+    padding: 10px 0px;
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 25px;
+}
+.nav ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+    text-transform: uppercase;
+}
+.header-btn{
+    background-color: #ff000000;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding: 8px 25px;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: black;
+}
+.header-btn:hover{
+    background-color: red;
+}
 .intro{
     display: flex;
     align-items: center;
